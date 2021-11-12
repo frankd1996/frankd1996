@@ -8,6 +8,7 @@ Soy desarrollador de software con experiencia en tecnologías de .NET, específi
 - 🔭 Actualmente trabajo en un proyecto personal, una app móvil para pago de servicios en Venezuela
 - 🌱 Estoy aprendiendo desarrollo web fronted (HTML, CSS y Javascript). Estudiante en Platzi (frankd1996)
 - 👯 Experiencia laboral de 3 años en diferentes tecnologías, con énfasis en apps para uso interno y backend web, en Distribuidora de Alimentos Oriven y Redemerca https://www.redemerca.com/
+- ⚡ Puedes ver todas mis certificaciones en tecnología aquí: https://drive.google.com/drive/folders/1kbyB3ccGT0EntJ5Y2QB2DmnGMuSpTBMd?usp=sharing  
 - 📫 Contacto: email (frankhamilton96@gmail.com) Linkedin (https://www.linkedin.com/in/frank-hamilton-571192176) Instagram (@frankd1996)
 
 <!--
